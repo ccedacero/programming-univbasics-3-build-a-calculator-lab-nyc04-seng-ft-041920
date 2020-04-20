@@ -19,7 +19,7 @@ num2 % num1
 end
 
 def square_root(num)
-Math.sqr(num)
+Math.sqrt(num)
 end
 
 
